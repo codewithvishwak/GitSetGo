@@ -48,13 +48,13 @@ export const desktopConfig = {
       // description: "Interactive Git learning guide",
       // shortcuts: ["Ctrl+G", "F1"],
     },
-    // {
-    //   id: "todo",
-    //   name: "Todo",
-    //   icon: "✓",
-    //   color: "bg-green-500",
-    //   component: "TodoApp",
-    // },
+     {
+      id: "todo",
+      name: "Todo",
+      icon: "✓",
+      color: "bg-green-500",
+      component: "TodoApp",
+    },
     // {
     //   id: "notes",
     //   name: "Notes",
